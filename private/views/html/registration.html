@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="../js/validation.js"></script>
+    <script type="text/javascript" src="../js/bootstrap.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../css/indStyle.css">
+    <title>Индиана Джонс</title>
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-xxl navbar-light" style="background-color: orange">
+        <a class="navbar-brand" href="#"><img class="img" src="https://fontmeme.com/permalink/181003/5f59850a5daeb01dc82adb3b2756483e.png" alt="indiana-jones-font" border="0"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Главная <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="films.html">Кино</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="serial.html">Сериал</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Литература
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="books.html">Книги</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="comics.html">Комиксы</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="games.html">Игры</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="test.html">Тест</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Войти
+                    </a>
+                    <div class="dropdown-menu">  <!--Регистарция-->
+                        <form class="px-4 py-3">
+                            <div class="form-group">
+                                <label for="exampleDropdownFormEmail1">Email адрес</label>
+                                <input type="email" class="form-control" id="exampleDropdownFormEmail1" placeholder="email@example.com">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleDropdownFormPassword1">Пароль</label>
+                                <input type="password" class="form-control" id="exampleDropdownFormPassword1" placeholder="Пароль">
+                            </div>
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="dropdownCheck">
+                                <label class="form-check-label" for="dropdownCheck">
+                                    Запомнить меня
+                                </label>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Войти</button>
+                        </form>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Первый раз? Зарегистрироваться!</a>
+                        <a class="dropdown-item" href="#">Забыли пароль?</a>
+                    </div>
+                </li>
+            </ul>
+            <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="search" placeholder="Поиск" aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Поиск</button>
+            </form>
+        </div>
+    </nav>
+</header>
+<div class="background">
+    <div id="smoke" class="container">
+        <div class="text">
+            <form class="needs-validation" novalidate>
+                <div class="form-row">
+                    <div class="offset-1 col-md-6 mb-4">
+                        <label for="validationTooltip01">Имя</label>
+                        <input type="text" class="form-control" id="validationTooltip01" placeholder="Имя" value="" required>
+                        <div class="valid-tooltip">
+                            Ура, у вас есть имя!
+                        </div>
+                        <div class="invalid-tooltip">
+                            Вы не ввели ваше имя.
+                        </div>
+                    </div>
+                    <div class="offset-1 col-md-6 mb-4">
+                        <label for="validationTooltip02">Фамилия</label>
+                        <input type="text" class="form-control" id="validationTooltip02" placeholder="Фамилия" value="" required>
+                        <div class="valid-tooltip">
+                            И даже фамилия!
+                        </div>
+                        <div class="invalid-tooltip">
+                            Вы не ввели вашу фамилию.
+                        </div>
+                    </div>
+                    <div class="offset-1 col-md-6 mb-4">
+                        <label for="validationTooltip03">Логин</label>
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="validationTooltipUsernamePrepend"></span>
+                            </div>
+                            <input type="text" class="form-control" id="validationTooltip03" placeholder="Имя пользователя" aria-describedby="validationTooltipUsernamePrepend" required>
+                            <div class="valid-tooltip">
+                                Отличный уникальный логин! =)
+                            </div>
+                            <div class="invalid-tooltip">
+                                Пожалуйста введите уникальный и неповторимый логин.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="offset-1 col-md-6 mb-4">
+                        <label for="validationTooltip04">Почта</label>
+                        <input type="email" class="form-control" id="validationTooltip04" placeholder="E-mail" value="" required>
+                        <div class="valid-tooltip">
+                            Ух-ты, да это-же почта!
+                        </div>
+                        <div class="invalid-tooltip">
+                            Введите ваш E-mail...
+                        </div>
+                    </div>
+                    <div class="offset-1 col-md-6 mb-4">
+                        <label for="validationTooltip05">Пароль</label>
+                        <input type="password" class="form-control" id="validationTooltip05" placeholder="Пароль, пожалуйста" value="" required>
+                        <div class="valid-tooltip">
+                            Юху, вы осилили пароль!
+                        </div>
+                        <div class="invalid-tooltip">
+                            Пароль, будьте столь любезны!
+                        </div>
+                    </div>
+                    <div class="offset-1 col-md-6 mb-4">
+                        <label for="validationTooltip06">Пароль</label>
+                        <input type="password" class="form-control" id="validationTooltip06" placeholder="Повторите пароль, пожалуйста" value="" required>
+                        <div class="valid-tooltip">
+                            Чудеса, вы снова осилили пароль!
+                        </div>
+                        <div class="invalid-tooltip">
+                            Пароль. Повторить! Повторить! Повторить!
+                        </div>
+                    </div>
+                </div>
+
+                <button class="btn btn-primary offset-1" type="submit">Зарегистрироваться</button>
+            </form>
+
+
+        </div>
+    </div>
+</div>
+<footer>
+
+</footer>
+</body>
+</html>
