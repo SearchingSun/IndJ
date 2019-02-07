@@ -1,0 +1,526 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"цик",
+				"цикла"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"ti",
+				"ticketNumber"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"undefined",
+				"undefined"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ease",
+				"ease-in"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"op",
+				"optgroup	Tag"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"f",
+				"for	Attr"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"m",
+				"meta"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/html/main.html",
+			"settings":
+			{
+				"buffer_size": 6837,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/web/KirnosWork/IndJ/private/components/Router.php",
+			"settings":
+			{
+				"buffer_size": 1351,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/web/KirnosWork/IndJ/private/controllers/PohodController.php",
+			"settings":
+			{
+				"buffer_size": 176,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/web/KirnosWork/IndJ/private/config/routes.php",
+		"/home/web/KirnosWork/IndJ/public_html/views/html/games.html",
+		"/home/web/KirnosWork/IndJ/public_html/views/html/comics.html",
+		"/home/web/KirnosWork/IndJ/public_html/views/html/books.html",
+		"/home/web/KirnosWork/IndJ/public_html/views/html/cherep.html",
+		"/home/web/KirnosWork/IndJ/public_html/views/html/films.html",
+		"/home/web/KirnosWork/IndJ/public_html/views/html/hram.html",
+		"/home/web/KirnosWork/IndJ/public_html/views/html/kovcheg.html",
+		"/home/web/KirnosWork/IndJ/public_html/views/html/pohod.html",
+		"/home/web/KirnosWork/IndJ/public_html/views/html/registration.html",
+		"/home/web/KirnosWork/IndJ/public_html/views/html/serial.html",
+		"/home/web/KirnosWork/IndJ/public_html/views/html/test.html",
+		"/home/web/KirnosWork/IndJ/public_html/views/html/main.html",
+		"/home/web/KirnosWork/IndJ/private/components/Router.php",
+		"/home/web/KirnosWork/IndJ/private/controllers/SerialController.php",
+		"/home/web/KirnosWork/IndJ/private/controllers/TestController.php",
+		"/home/web/KirnosWork/IndJ/private/controllers/PohodController.php",
+		"/home/web/KirnosWork/IndJ/private/controllers/RegistrationController.php",
+		"/home/web/KirnosWork/IndJ/private/controllers/KovchegController.php",
+		"/home/web/KirnosWork/IndJ/private/controllers/HramController.php",
+		"/home/web/KirnosWork/IndJ/private/controllers/BooksController.php",
+		"/home/web/KirnosWork/IndJ/private/controllers/ComicsController.php",
+		"/home/web/KirnosWork/IndJ/private/controllers/FilmsController.php",
+		"/home/web/KirnosWork/IndJ/private/controllers/GamesControlles.php",
+		"/home/web/KirnosWork/IndJ/private/controllers/CherepController.php",
+		"/home/web/KirnosWork/IndJ/private/controllers/ProductsController.php",
+		"/home/web/KirnosWork/IndJ/private/controllers/MainController.php",
+		"/home/web/KirnosWork/IndJ/private/controllers/NewsController.php",
+		"/home/web/KirnosWork/IndJ/public_html/views/html/cinema/cherep.html",
+		"/home/web/KirnosWork/IndJ/public_html/index.php",
+		"/home/web/KirnosWork/travel.blog/composer.json",
+		"/home/web/KirnosWork/travel.blog/my_project_name/web/config.php",
+		"/home/web/KirnosWork/travel.blog/proj/composer.json",
+		"/home/web/KirnosWork/travel.blog/config.json",
+		"/home/web/KirnosWork/html-css-js-php-studing/php-std/lessonOverDohuia",
+		"/home/web/KirnosWork/IndJ/бд",
+		"/home/web/KirnosWork/IndJ/private/views/books.html",
+		"/home/web/KirnosWork/html-css-js-php-studing/php-std/magazine/zakaz.php",
+		"/home/web/KirnosWork/html-css-js-php-studing/php-std/magazine/tovak.php",
+		"/home/web/KirnosWork/html-css-js-php-studing/php-std/magazine/main.php",
+		"/home/web/KirnosWork/html-css-js-php-studing/php-std/magazine/backet.php",
+		"/home/web/php/project.local/index.php",
+		"/etc/nginx/sites-available/project.local",
+		"/home/web/KirnosWork/php-base/lesson8/Dog.php",
+		"/home/web/KirnosWork/php-base/lesson8/Cat.php",
+		"/home/web/KirnosWork/php-base/lesson8/main.php",
+		"/home/web/KirnosWork/php-base/lesson8/Mouse.php",
+		"/home/web/KirnosWork/php-base/lesson8/Pet.php",
+		"/home/web/KirnosWork/classPhp/Dog.php",
+		"/home/web/KirnosWork/classPhp/main.php",
+		"/home/web/KirnosWork/html-css-js-php-studing/php-std/hw4_2.php",
+		"/home/web/KirnosWork/html-css-js-php-studing/php-std/hw3.php",
+		"/home/web/KirnosWork/123/goods.php",
+		"/home/web/KirnosWork/123/good.php",
+		"/home/web/KirnosWork/html-css-js-php-studing/php-std/hw2.php",
+		"/home/web/KirnosWork/Game/.gitignore",
+		"/home/web/KirnosWork/Game/package-lock.json",
+		"/home/web/KirnosWork/php/lesson2.php",
+		"/home/web/KirnosWork/php/lesson1.php",
+		"/home/web/KirnosWork/json/try-vue-master/package.json",
+		"/home/web/KirnosWork/json/try-vue-master/dist/style.css",
+		"/home/web/KirnosWork/json/try-vue-master/wqw.php",
+		"/home/web/KirnosWork/json/try-vue-master/package-lock.json",
+		"/home/web/KirnosWork/json/try-vue-master/src/components/tasks.js",
+		"/home/web/KirnosWork/json/try-vue-master/src/index.js",
+		"/home/web/KirnosWork/json/try-vue-master/index.html",
+		"/home/web/try-webpack/package.json",
+		"/home/web/KirnosWork/json/try-vue-master/src/App.vue",
+		"/home/web/KirnosWork/html-css-js-php-studing-master/js-std/js/library/books.js",
+		"/home/web/KirnosWork/html-css-js-php-studing-master/js-std/js/library/index.js",
+		"/home/web/KirnosWork/html-css-js-php-studing-master/js-std/js/library/library.js",
+		"/home/web/KirnosWork/json/try-vue-master/App.vue",
+		"/home/web/KirnosWork/try-webpack-master/index.scss",
+		"/home/web/KirnosWork/try-webpack-master/webpack.config.js",
+		"/home/web/KirnosWork/try-webpack-master/dist/style.css",
+		"/home/web/KirnosWork/try-webpack-master/package-lock.json",
+		"/home/web/KirnosWork/try-webpack-master/package.json",
+		"/home/web/KirnosWork/html-css-js-php-studing-master/package.json",
+		"/home/web/KirnosWork/try-webpack-master/index.html",
+		"/home/web/KirnosWork/lection.txt",
+		"/home/web/KirnosWork/js-lessons-master/lesson12/css/index.css",
+		"/home/web/KirnosWork/js-lessons-master/lesson12/js/jquery3.3.1.js",
+		"/home/web/KirnosWork/js-lessons-master/lesson12/js/idndex.js",
+		"/home/web/KirnosWork/js-lessons-master/lesson12/index.html",
+		"/home/web/KirnosWork/html-css-js-php-studing-master/js-std/js/sad/index.js",
+		"/home/web/KirnosWork/html-css-js-php-studing-master/js-std/js/sad/sad.js",
+		"/home/web/KirnosWork/html-css-js-php-studing-master/js-std/js/sad/derevo.js",
+		"/home/web/KirnosWork/html-css-js-php-studing-master/js-std/js/sad/apple.js",
+		"/home/web/KirnosWork/html-css-js-php-studing-master/js-std/sad.html",
+		"/home/web/KirnosWork/html-css-js-php-studing-master/js-std/library.html",
+		"/home/web/KirnosWork/html-css-js-php-studing-master/js-std/js/js6.js",
+		"/home/web/KirnosWork/js-lessons-master/maze/js/Game.js",
+		"/home/web/KirnosWork/js-lessons-master/maze/js/CanvasController.js",
+		"/home/web/KirnosWork/html-css-js-php-studing-master/js-std/js/js5.js",
+		"/home/web/KirnosWork/30okt.html",
+		"/home/web/KirnosWork/CanvasController.js",
+		"/home/web/KirnosWork/MazeImage.js",
+		"/home/web/KirnosWork/Game.js",
+		"/home/web/KirnosWork/index.js",
+		"/home/web/KirnosWork/js/lesson8.js",
+		"/home/web/KirnosWork/25okt.html",
+		"/home/web/KirnosWork/js/lesson7.js",
+		"/home/web/KirnosWork/22okt.html",
+		"/home/web/KirnosWork/js/lesson6.js",
+		"/home/web/KirnosWork/js/lesson5.js",
+		"/home/web/KirnosWork/20okt.html",
+		"/home/web/KirnosWork/js/lesson4.js",
+		"/home/web/KirnosWork/18okt.html",
+		"/home/web/KirnosWork/js/lesson3.js",
+		"/home/web/KirnosWork/16okt.html",
+		"/home/web/KirnosWork/13okt.html",
+		"/home/web/KirnosWork/js/konstruct.js",
+		"/home/web/KirnosWork/js/loops.js",
+		"/home/web/KirnosWork/js/massiv.js",
+		"/home/web/KirnosWork/js/lesson1.js",
+		"/home/web/KirnosWork/11oct.html",
+		"/media/web/BD31-8E1F/WEB/localhost/app/controllers/controllers.php",
+		"/home/web/progl/hello.c",
+		"/home/web/Загрузки/idea-IC-173.4674.33/Install-Linux-tar.txt",
+		"/home/web/IdeaProjects/lesson.java",
+		"/home/web/KirnosWork/6okt.html",
+		"/home/web/KirnosWork/6okt.css",
+		"/home/web/IdeaProjects/6okt.html",
+		"/home/web/IdeaProjects/6okt.css",
+		"/home/web/KirnosWork/4okt.css",
+		"/home/web/KirnosWork/4okt.html",
+		"/home/web/KirnosWork/html-lessons-master/lesson5/css/style.css",
+		"/home/web/KirnosWork/html-lessons-master/lesson5/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"main"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/html/main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1804,
+								1804
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1170.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/web/KirnosWork/IndJ/private/components/Router.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/web/KirnosWork/IndJ/private/controllers/PohodController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
